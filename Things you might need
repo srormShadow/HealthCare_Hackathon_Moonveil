@@ -1,0 +1,4 @@
+1. Install yarn, truffle, npm(node pakage manager).(packages)
+2. Install Ganache.(application)
+3. Install Metamask.(chrome Extension)
+4. Connect MetaMask to Ganache.
